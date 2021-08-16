@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "843868078022",
+    "firebase_url": "https://fxcm-96d32-default-rtdb.firebaseio.com",
+    "project_id": "fxcm-96d32",
+    "storage_bucket": "fxcm-96d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843868078022:android:0784ad4e2a765cb3fc7cc7",
+        "android_client_info": {
+          "package_name": "com.example.fxcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843868078022-q2ios0dpf9sd1pcue5aedt8tftnmr128.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSIw55DqJs3L14Lj3xKSuPpFNLnJrSR20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843868078022-q2ios0dpf9sd1pcue5aedt8tftnmr128.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
